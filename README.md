@@ -1,2 +1,2 @@
 # Python-tutorials
-Complete python tutorials alongwith advance python topics
+Complete python tutorials alon gwith advance python topics
