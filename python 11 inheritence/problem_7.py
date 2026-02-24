@@ -1,0 +1,12 @@
+#  override the __len__() method on vector of problem 5 to display of the vector
+
+
+class Vector:
+    def __init__(self,l):
+        self.l = l
+
+    def __len__(self):
+        return len(self.l)
+    
+v1 = Vector ([1,2,3])
+print(len(v1))

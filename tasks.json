@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "complete python task management project",
+        "description": "task fetching",
+        "deadline": "2025-02-22",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "title": "another task",
+        "description": "based on the previous",
+        "deadline": "2025-02-23",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "title": "new world!",
+        "description": "new begining",
+        "deadline": "23-07-2025",
+        "status": "Pending"
+    }
+]
